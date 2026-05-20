@@ -1,7 +1,6 @@
-Flask
+flask
 flask-cors
+joblib
+numpy
 pandas
-scikit-learn
-scipy
-matplotlib
-plotly
+xgboost
